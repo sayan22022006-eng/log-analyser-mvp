@@ -1,0 +1,5 @@
+{"timestamp":"2026-10-28T10:01:02Z","event_type":"login_failure","username":"admin","source_ip":"203.0.113.10","message":"Invalid password"}
+{"timestamp":"2026-10-28T10:01:05Z","event_type":"login_failure","username":"admin","source_ip":"203.0.113.10","message":"Invalid password"}
+{"timestamp":"2026-10-28T10:01:10Z","event_type":"login_success","username":"admin","source_ip":"203.0.113.10","message":"Login successful"}
+{"timestamp":"2026-10-28T10:02:00Z","event_type":"request","source_ip":"203.0.113.10","method":"GET","path":"/health","status_code":200,"message":"OK"}
+{"timestamp":"2026-10-28T10:02:10Z","event_type":"access_denied","source_ip":"203.0.113.10","username":"guest","status_code":403,"message":"Forbidden"}
